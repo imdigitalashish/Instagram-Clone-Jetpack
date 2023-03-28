@@ -3,9 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/CODING/Projects/AndroidStudioProjects/InstagramProfilePageUI/app/src/main/res/drawable-v24/ic_bell.xml" value="0.1" />
+        <entry key="..\:/CODING/Projects/AndroidStudioProjects/InstagramProfilePageUI/app/src/main/res/drawable-v24/ic_dotmenu.xml" value="0.1" />
         <entry key="..\:/CODING/Projects/AndroidStudioProjects/InstagramProfilePageUI/app/src/main/res/drawable-v24/ic_grid.xml" value="0.1" />
         <entry key="..\:/CODING/Projects/AndroidStudioProjects/InstagramProfilePageUI/app/src/main/res/drawable-v24/ic_igtv.xml" value="0.1" />
+        <entry key="..\:/CODING/Projects/AndroidStudioProjects/InstagramProfilePageUI/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
         <entry key="..\:/CODING/Projects/AndroidStudioProjects/InstagramProfilePageUI/app/src/main/res/drawable-v24/ic_reels.xml" value="0.1" />
+        <entry key="..\:/CODING/Projects/AndroidStudioProjects/InstagramProfilePageUI/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
       </map>
     </option>
   </component>
